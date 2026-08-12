@@ -1,0 +1,4 @@
+¿Qué relación hay entre la altura de un árbol binario perfecto y la cantidad de nodos que tiene ese árbol?
+
+La relacion es que en cada nivel se va aumentando la cantidad de nodos de manera exponencial con base 2. 
+Empieza en 0 y va auentando en 1 el exponente.

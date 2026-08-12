@@ -1,0 +1,22 @@
+1. Todo árbol binario es completo o lleno.
+
+Falso, por ejemplo si en un arbol,
+en el nivel 2 esta completo, pero el de arriba esta incompleto,
+no cumple con ninguno de los dos.
+
+2. Todo árbol binario completo también es un árbol binario lleno.
+
+Falso, un arbol completo puede tener nodos con un solo hijo,
+siempre que los nodos estén ubicados de izquierda a derecha en el último nivel.
+En cambio, un arbol lleno debe tener todos sus nodos con 0 o 2 hijos.
+
+3. Todo árbol binario lleno también es un árbol binario completo.
+
+Verdadero, al hacer un arbol lleno,
+terminas cumpliendo las condiciones de uno completo.
+
+4. Ningún árbol binario es completo y lleno a la vez.
+
+Falso, lo dije arriba.
+
+

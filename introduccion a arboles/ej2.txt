@@ -1,0 +1,3 @@
+¿Cómo hacés para darte cuenta si dos árboles son idénticos?
+
+Me doy cuenta si tienen la misma cantidad de nodos y estan ordenados de la misma manera.
