@@ -29,3 +29,4 @@ for nodo in priority_queue.tabla:
     print(f"Data: {nodo.data}, Priority: {nodo.priority}")
 
 
+       
